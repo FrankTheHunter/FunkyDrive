@@ -23,7 +23,8 @@
 
 <main class="w-100 m-auto">
     <form class="container-sm">
-        <img class="mb-4" src="../assets/brand/bootstrap-logo.svg" alt="" width="72" height="57">
+            <p class="text-center" style="font-size: 44px; font-weight: bold;">Welcome to Funky Drive</p>
+        <img class="mb-4" src="static/images/funky.png" alt="" style="display: block; margin-left: auto; margin-right: auto; border-radius: 20px;" width="572" height="557">
         <h1 class="h3 mb-3 fw-normal">Please sign in</h1>
 
         <div class="form-floating">
@@ -42,7 +43,7 @@
             </label>
         </div>
         <button class="btn btn-primary w-100 py-2" type="submit">Sign in</button>
-        <p class="mt-5 mb-3 text-body-secondary">&copy; 2017–2024</p>
+        <p class="mt-5 mb-3 text-body-secondary">&copy; FrankTheHunter - 2024</p>
     </form>
 </main>
 <script src="../assets/dist/js/bootstrap.bundle.min.js"></script>
